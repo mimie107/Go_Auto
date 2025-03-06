@@ -92,7 +92,7 @@ Develop a web-based interface for user-friendly price estimation
 
 Contributors
 
-Ayo Pedro and Group Members
+Emem and Group Members
 
 License
 
