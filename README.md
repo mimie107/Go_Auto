@@ -29,6 +29,5 @@ This project focuses on building a machine learning model to predict optimal veh
 - Integration into a full web app for real-time price predictions
 
 ## Author
-- **[Your Name]**
-- LinkedIn: [Your LinkedIn URL] (optional)
+- **Emem A**
 
